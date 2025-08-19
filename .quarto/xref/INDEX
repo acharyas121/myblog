@@ -19,5 +19,14 @@
   },
   "posts/notebook3.ipynb": {
     "notebook3.html": "61e04af2"
+  },
+  "posts/basic_deep_learning.ipynb": {
+    "basic_deep_learning.html": "2bd476e5"
+  },
+  "posts/full_workflow_dl.ipynb": {
+    "full_workflow_dl.html": "ac4c735b"
+  },
+  "posts/pytorch_gradients.ipynb": {
+    "pytorch_gradients.html": "116f93a9"
   }
 }
