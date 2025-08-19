@@ -2,9 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/notebook1.html",
-      "/posts/notebook3.html",
-      "/posts/notebook_4.html"
+      "/posts/basic_deep_learning.html",
+      "/posts/full_workflow_dl.html",
+      "/posts/pytorch_gradients.html"
     ]
   }
 ]
