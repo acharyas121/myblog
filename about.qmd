@@ -1,0 +1,16 @@
+---
+title: "About"
+image: crop.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sajjan-acharya/
+    - icon: github
+      text: Github
+      href: https://github.com/S-acharya57
+
+---
+
+A learning journal — sharing what I discover, build, and experiment with. 

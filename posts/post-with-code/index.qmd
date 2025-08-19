@@ -1,0 +1,7 @@
+---
+title: "Post With Code"
+author: "Sajjan"
+date: "2025-08-19"
+---
+
+This is a random post.
